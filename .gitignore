@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Checkpoints, weights, and data
+checkpoints/
+data/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
